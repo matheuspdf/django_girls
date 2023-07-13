@@ -6,3 +6,6 @@
 4. Modelos do Django ✔
 5. Django Admin ✔
 6. Deploy! ...
+7. URLs ✔
+8. Django Views - hora de criar! ✔
+9. Introdução ao HTML ✔
