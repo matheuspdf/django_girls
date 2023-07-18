@@ -9,3 +9,7 @@
 7. URLs ✔
 8. Django Views - hora de criar! ✔
 9. Introdução ao HTML ✔
+10. QuerySets e ORM do Django ✔
+11. Dados dinâmicos em templates
+12. 
+
