@@ -12,6 +12,7 @@
 10. QuerySets e ORM do Django ✔
 11. Dados dinâmicos em templates ✔
 12. Templates do Django ✔
-13. CSS - deixe tudo mais bonito! ✔ 
-
+13. CSS - deixe tudo mais bonito! ✔
+14. Estendendo os templates ✔
+15. 
 
