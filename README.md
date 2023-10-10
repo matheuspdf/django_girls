@@ -14,5 +14,5 @@
 12. Templates do Django ✔
 13. CSS - deixe tudo mais bonito! ✔
 14. Estendendo os templates ✔
-15. 
+15. Amplie sua aplicação
 
